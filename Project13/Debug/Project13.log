@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project13.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\zakaa\source\repos\project13\project13\source.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\zakaa\source\repos\project13\project13\source.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\zakaa\source\repos\project13\project13\source.cpp(547): warning C4101: 'offset': unreferenced local variable
+c:\users\zakaa\source\repos\project13\project13\source.cpp(665): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\zakaa\source\repos\project13\project13\source.cpp(675): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+c:\users\zakaa\source\repos\project13\project13\source.cpp(659): warning C4715: 'maincontrol': not all control paths return a value
+c:\users\zakaa\source\repos\project13\project13\source.cpp(318): warning C4717: 'signup::signupmain': recursive on all control paths, function will cause runtime stack overflow
+c:\users\zakaa\source\repos\project13\project13\source.cpp(94): warning C4715: 'bank::input': not all control paths return a value
+c:\users\zakaa\source\repos\project13\project13\source.cpp(194): warning C4715: 'bank::transation': not all control paths return a value
+  Project13.vcxproj -> C:\Users\zakaa\source\repos\Project13\Debug\Project.exe
